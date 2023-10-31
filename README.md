@@ -8,7 +8,7 @@
 - 📫 Como entrar em contato comigo: contatopedrohma@gmail.com
 - ⚡ Curiosidade: Nesse meu perfil você pode encontrar meu portfólio mostrando minha evolução como programador.
 
-## Ferramentas e Tecnologias que estou aprendendo
+## Ferramentas e tecnologias que estou aprendendo
 
 <div style="display: flex; justify-content: space-between;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>

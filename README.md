@@ -6,7 +6,6 @@
 - 🌎 Atualmente estou em uma especialização em Relações Internacionais e Diplomacia pela Ibmec
 - 🤝 Estou procurando colaborar em projetos de Data Science, principalmente os que tiverem foco na Diplomacia da Saúde
 - 📫 Como entrar em contato comigo: contatopedrohma@gmail.com
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Nesse meu perfil você pode encontrar meu portfólio mostrando minha evolução como programador.
 
 ## Ferramentas e Tecnologias que estou aprendendo

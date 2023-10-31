@@ -12,7 +12,7 @@
 
 ## Ferramentas e Tecnologias que estou aprendendo
 
-<h1 style="color: blue;">Ferramentas e Tecnologias que estou aprendendo</h1>
+<h2 style="color: blue;">Ferramentas e Tecnologias que estou aprendendo</h2>
 
 <div style="display: flex; justify-content: space-between;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
@@ -25,7 +25,7 @@
 
 ## Contatos:
 
-<h1 style="color: blue;">Contatos:</h1>
+<h3 style="color: blue;">Contatos:</h3>
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://linktr.ee/pedro.hma" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>

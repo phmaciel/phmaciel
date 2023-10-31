@@ -1,6 +1,6 @@
 ### Olá me chamo Pedro. Seja bem vindo a minha página. 👋
 
-<h1 style="color: #0000FF;">Olá me chamo Pedro. Seja bem vindo a minha página.</h1>
+<h1 class="text-blue">Olá me chamo Pedro. Seja bem vindo a minha página.</h1>
 
 - 🧑‍💼 Sou um administrador formado pela PUC-SP com especialização em marketing e comunicação digital pela ESPM
 - 💻 Estou iniciando meu aprendizado na programação
@@ -12,7 +12,7 @@
 
 ## Ferramentas e Tecnologias que estou aprendendo
 
-<h2 style="color: #0000FF;">Ferramentas e Tecnologias que estou aprendendo</h2>
+<h2 class="text-blue">Ferramentas e Tecnologias que estou aprendendo</h2>
 
 <div style="display: flex; justify-content: space-between;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
@@ -25,7 +25,7 @@
 
 ## Contatos:
 
-<h3 style="color: #0000FF;">Contatos:</h3>
+<h3 class="text-blue">Contatos:</h3>
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://linktr.ee/pedro.hma" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>

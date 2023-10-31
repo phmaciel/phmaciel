@@ -11,8 +11,16 @@
 
 ## Ferramentas e Tecnologias que estou aprendendo
 
+<div style="display: flex; justify-content: space-between;">
+<figure>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+<figcaption>HTML</figcaption>
+</figure>
+<figure>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+<figcaption>CSS</figcaption>
+</figure>
+</div>
 
           
 

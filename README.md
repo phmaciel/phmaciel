@@ -1,6 +1,6 @@
 ### Olá me chamo Pedro. Seja bem vindo a minha página. 👋
 
-<h1 style="color: blue;">Olá me chamo Pedro. Seja bem vindo a minha página.</h1>
+<h1 class="text-blue">Olá me chamo Pedro. Seja bem vindo a minha página.</h1>
 
 - 🧑‍💼 Sou um administrador formado pela PUC-SP com especialização em marketing e comunicação digital pela ESPM
 - 💻 Estou iniciando meu aprendizado na programação

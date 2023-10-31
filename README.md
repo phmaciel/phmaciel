@@ -22,8 +22,8 @@
 ## Contatos:
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://linktr.ee/pedro.hma" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://linktr.ee/pedro.hma" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
   <a href="mailto:contatopedrohma@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrohma/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%23-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedrohma/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
